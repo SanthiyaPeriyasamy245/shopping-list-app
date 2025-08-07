@@ -15,5 +15,5 @@
 - 📐 Included <meta name="viewport"> for mobile responsiveness
 - 🌟 Added a favicon and manifest.json for standalone, installable app behavior
 - 📥 Enabled downloading the list via Blob and URL.createObjectURL()—generates a .txt file for offline use
-- 🎥 Demo video posted on LinkedIn.
+
 
